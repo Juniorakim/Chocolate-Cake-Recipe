@@ -1,0 +1,52 @@
+img#cake{
+    border: 10px solid rgb(132, 99, 99);
+    position: relative;
+    top: 30px;
+    
+    
+}
+body{
+    background-color: rgba(165, 6, 6, 0.394);
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.ingredients{
+    
+    background-color: rgba(29, 25, 25, 0.222);
+    border-radius: 50px;
+    border-width: 10px 10px;
+    width: 500px;
+    text-align: center;
+    list-style: none;
+    font-family: "Matemasie", sans-serif;
+    margin-left: 12%;
+    font-size: 20px;
+    
+
+}
+li{
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    
+}
+.title{
+    text-align: center;
+    font-family: "Matemasie", sans-serif;
+    color: rgb(63, 25, 25);
+    font-size:30px;
+    
+}
+.Recipe{
+    position: relative;
+    top: 15px;
+    background-color: rgb(130, 86, 86);
+    border-radius: 15%;
+    
+    border-width: 10px 10px;
+    
+    
+    
+}
